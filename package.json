@@ -6,6 +6,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@Alphenx"
   },
+  "repository": "https://github.com/Alphenx/packages-demo",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
