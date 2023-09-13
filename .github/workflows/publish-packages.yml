@@ -22,4 +22,4 @@ jobs:
       - run: npm install
       - run: npm publish
         env:
-          NPM_TOKEN: ${{secrets.PACKAGES_TOKEN}}
+          NPM_CONFIG_TOKEN: ${{secrets.NPM_CONFIG_TOKEN}}
