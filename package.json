@@ -1,6 +1,6 @@
 {
-  "name": "packages-demo",
-  "version": "1.0.0",
+  "name": "@Alphenx/packages-demo",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "publishConfig": {
